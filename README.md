@@ -1,1 +1,1 @@
-This is an app that pulls my current work orders and send me an email for any newly assigned work orders. 
+This is an app that uses selenium to extract a list of my currently assigned work orders and will send me an email for any work order newly assigned. 
